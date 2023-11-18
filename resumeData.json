@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Keeton Martin",
-    "description":"I am a software engineer and I've put together this page to showcase my work. Welcome to my home base on the internet",
+    "name":"Hannah Lopez",
+    "description":"I am a private credit analyst. Welcome to my home base on the internet",
     "image":"profilepic.jpeg",
-    "bio":"I graduated from Haverford College with a B.S. in Computer Science in May 2022. I took a job at Salesforce as an engineer, and I started in August 2022. I like to build things in Python, Java, Javascript/Typescript, and in my free time I like to play and think about basketball, fiddle with keyboards, and enjoy the great outdoors. I've been traveling a lot lately, you can mostly find me in San Francisco or New York City.",
+    "bio":"I graduated from Haverford College with a B.A. in Economics in May 2022. I took a job at KKR as a private credit analyst, and I started in July 2022. I like learning about fun new things in tech and the world around me.",
     "contactmessage":"Feel free to reach out to me using this form and I'll get back to you ASAP.",
     "email": "keeton.martin@gmail.com",
     "phone": "650-561-5776",
