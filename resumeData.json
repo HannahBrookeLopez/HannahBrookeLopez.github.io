@@ -1,46 +1,31 @@
 {
   "main": {
     "name":"Hannah Lopez",
-    "description":"I am a private credit analyst. Welcome to my home base on the internet",
+    "description":"I am a private credit analyst interested in the intersection of finance and the tech industry. Welcome to my home base on the internet",
     "image":"profilepic.jpeg",
-    "bio":"I graduated from Haverford College with a B.A. in Economics in May 2022. I took a job at KKR as a private credit analyst, and I started in July 2022. I like learning about fun new things in tech and the world around me.",
+    "bio":"I graduated from Haverford College with a B.A. in Economics in May 2022. I took a job at KKR as a private credit analyst, and I started in July 2022. I enjoy learning about fun new things in tech and the world around me, and am excited to contribute my skills across collaborative projects.",
     "contactmessage":"Feel free to reach out to me using this form and I'll get back to you ASAP.",
-    "email": "keeton.martin@gmail.com",
-    "phone": "650-561-5776",
-    "github":"https://github.com/KeetonMartin",
+    "email": "hannah.b.lopez5@gmail.com",
+    "phone": "443-377-8117",
+    "github":"https://github.com/HannahBrookeLopez",
     "project":"https://keetonmartin.github.io/routerunner/",
     "address":{
-      "street":"370 Lancaster Ave",
-      "city":"Haverford",
-      "state":"PA",
-      "zip": "19041"
+      "street":"360 E 65th Street",
+      "city":"New York",
+      "state":"NY",
+      "zip": "10065"
     },
-    "website": "https://keetonmartin.github.io/",
+    "website": "https://hannahbrookelopez.github.io/",
     "resumedownload":"https://drive.google.com/file/d/13hHPYdaMPndafNWUMXQwNxhB_b2Com23/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/keeton.martin.79",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/KeetonMartin",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/keetonmartin/",
+        "url":"https://www.linkedin.com/in/hannah-lopez-031a3b196/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/keeton_martin/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/KeetonMartin",
+        "url":"https://github.com/HannahBrookeLopez",
         "className":"fa fa-github"
       }
     ]
@@ -50,62 +35,60 @@
     "education":[
       {
         "school":"Haverford College",
-        "degree":"Bachelor's of Science in Computer Science",
+        "degree":"Bachelor's of Arts in Ecomonics",
         "graduated":"May 2022",
-        "description":"Studied Software Engineering, Algorithms, Data Structures, AI, Databases, and more. Minored in Statistics and minored in Neuroscience."
+        "description":"Studied Analytical Methods for Economics, Corporate Finance, Statistics, and more. Completed the Pre-Medicine track and minored in Psychology."
       },
       {
-        "school":"Menlo School",
+        "school":"The Bryn Mawr School",
         "degree":"High School Diploma",
         "graduated":"June 2018",
-        "description":"Graduated high school having focused on computer science and statistics."
+        "description":"Graduated high school having focused on biology and english."
       }
     ],
     "work":[
       {
-        "company":"Salesforce",
-        "title":"Software Engineer (AMTS)",
-        "years":"August 2022 - Present",
-        "description":"As a software engineer in Automation Services, designed, developed, and tested new features and enhancements for Flow with scrum team using Typescript and Java. Led planning and execution of high impact epics on a greenfield project. Spearheaded instrumentation project to ensure reliability and efficiency for our customers."
+        "company":"KKR Co",
+        "title":"Private Credit Analyst",
+        "years":"July 2022 - Present",
+        "description":"Learned key criteria for credit underwriting in an industry agnostic role. Spearheaded creating and presenting underwriting memos to senior team members, and our KKR Credit portfolio managers. Experienced in creating and maintaining financial models that include detailed revenue and FCF builds to demonstrate various sensitivity cases based on company-specific unit economics"
       },
       {
-        "company":"Salesforce",
-        "title":"Software Engineer Intern",
+        "company":"KKR Co",
+        "title":"Private Credit 2021 Summer Analyst",
         "years":"June 2021 - August 2021",
-        "description":"Worked in the Salesforce core on a describe utility that generates OpenAPI definitions (interfaces for RESTful APIs) for DataRaptors - an essential clicks not code tool in the Salesforce Industries stack. Independent development work on enterprise software completed with guidance of a Senior Architect and Project Manager."
+        "description":"Gained hands-on experience building investment memos and models to evaluate and develop investment criteria for companies across various industries. Guided through investment fundamentals by an associate on the deal team, and tested my knowledge with an individual final presentation consolidating information from a fulsome data room to create and present a memo and model."
       },
       {
-        "company":"Vlocity",
-        "title":"Software Engineering Intern",
-        "years":"May 2020 - July 2020",
-        "description":"Developed and published a Node.js + Typescript command line tool using the Open CLI Framework (OCLIF) to create a Salesforce DX Plugin for a previously existing NPM Library including automated upload through Jenkins to npmjs.org. Development work done independently from scratch with guidance of a Senior Engineer."
+        "company":"Guggenheim Partners",
+        "title":"Insurance Portfolio Management Summer Intern",
+        "years":"July 2020 - August 2020",
+        "description":"Remote intern working in the insurance portfolio management sector. Worked on projects, took notes on team calls, and learned about insurance investments. Received training in Bloomberg and Aladdin."
+      }
+      {
+        "company":"Girls Who Invest: Virtual Summer Intensive Program hosted by UCLA Anderson",
+        "title":"Student",
+        "years":"May 2020 - August 2020",
+        "description":"Completed a highly selective, rigorous 4-week training program focused on core investment concepts and skills taught by leading business school professors and investment professionals. Coursework and case studies included accounting, valuation, financial modeling, Bloomberg terminal, asset allocation, presentation and business etiquette skills."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"99%"
+        "name":"Excel",
+        "level":"100%"
       },
       {
-        "name":"Java",
+        "name":"PowerPoint",
+        "level":"100%"
+      },
+      {
+        "name":"Bloomberg",
         "level":"90%"
       },
       {
-        "name":"Typescript / Javascript",
-        "level":"90%"
+        "name":"R",
+        "level":"40%"
       },
-      {
-        "name":"Ruby on Rails",
-        "level":"63%"
-      },
-      {
-        "name":"HTML/CSS",
-        "level":"99%"
-      },
-      {
-        "name":"SQL",
-        "level":"90%"
-      }
     ]
   },
   "portfolio":{
