@@ -93,42 +93,6 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Routerunner",
-        "category":"A react web app to recommend credit cards based on a user's most frequest flight route",
-        "image":"routeCardsSplash.png",
-        "url":"https://keetonmartin.github.io/routerunner/"
-      },
-      {
-        "title":"Thar She Blows",
-        "category":"A very simple DaisyUI web app to check the timing of transit routes I care about In San Francisco",
-        "image":"thar-she-blows.png",
-        "url":"https://keetonmartin.github.io/thar-she-blows/"
-      },
-      {
-        "title":"Route Cards",
-        "category":"An early version of routerunner",
-        "image":"routeCardsSplash2.png",
-        "url":"https://keetonmartin.github.io/routeCards/"
-      },
-      {
-        "title":"Olomi Afghan Artist",
-        "category":"An artist's website that I helped to build when he needed to br promoted for an auction fundraiser for a nonprofit",
-        "image":"7Buddhas.png",
-        "url":"http://olomiafghanartist.com/"
-      },
-      {
-        "title":"My Corne Keyboard Layout",
-        "category":"I'm very interested in small ergonomic keyboards, this is the repo for my latest layout",
-        "image":"keyboardDrawing.png",
-        "url":"https://github.com/KeetonMartin/zmk-config2"
-      },
-      {
-        "title":"EEG and MNE for Neuroscience",
-        "category":"Neuroscience data processing with Python",
-        "image":"neuro.png",
-        "url":"https://github.com/KeetonMartin/introToEEGandMNE"
-      } 
     ]
   }
 }
